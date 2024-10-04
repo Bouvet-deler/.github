@@ -1,6 +1,6 @@
 {
-  "name": ".NET 8.0 PR Validation Build",
-  "description": "Octo Organization CI workflow template.",
+  "name": ".NET PR Validation Build",
+  "description": "Restores dependencies and builds a .NET project upon creation of a PR against the repository's default branch",
   "iconName": "octicon git-pull-request",
   "categories": [
       "Continuous integration",
