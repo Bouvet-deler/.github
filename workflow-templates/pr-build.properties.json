@@ -1,0 +1,9 @@
+{
+  "name": ".NET 8.0 PR Validation Build",
+  "description": "Octo Organization CI workflow template.",
+  "iconName": "octicon git-pull-request",
+  "categories": [
+      "Continuous integration",
+      "DotNetCoreWorker"
+  ]
+}
